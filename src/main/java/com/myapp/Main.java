@@ -23,3 +23,12 @@ public class Main {
         System.out.println(reversed);
     }
 }
+//3metodo
+string text = "Hola Mundo";
+string textResult = "";
+
+char[] chars = text.ToCharArray();
+Array.Reverse(chars);
+textResult = new string(chars);
+
+console.WriteLine(textResult);
