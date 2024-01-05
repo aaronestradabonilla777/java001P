@@ -24,11 +24,11 @@ public class Main {
     }
 }
 //3metodo
-string text = "Hola Mundo";
-string textResult = "";
+// string text = "Hola Mundo";
+// string textResult = "";
 
-char[] chars = text.ToCharArray();
-Array.Reverse(chars);
-textResult = new string(chars);
+// char[] chars = text.ToCharArray();
+// Array.Reverse(chars);
+// textResult = new string(chars);
 
-console.WriteLine(textResult);
+// console.WriteLine(textResult);
