@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 public class Main {
   public static void main(String[] args) {
+    // reversed es una variable que guarda el valor de la cadena invertida
     Scanner scanner = new Scanner(System.in);
     System.out.println("Enter a string:");
     String input = scanner.nextLine();
